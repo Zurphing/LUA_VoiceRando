@@ -1,0 +1,8 @@
+title: Voice Rando
+originalAuthor: Zurphing
+description: Randomizes Sora's voice clips in battle. Refresh scripts to rerandomize.
+assets:
+- name: scripts/F266B00B_Voice_Rando.lua
+  method: copy
+  source:
+  - name: F266B00B_Voice_Rando.lua
